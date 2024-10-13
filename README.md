@@ -11,3 +11,5 @@ MODULES USED -
 3. LogisticRegression from sklearn.linear_model
 4. accuracy_score from sklearn.metrics
 5. train_test_split from sklearn.model_selection
+
+Link to Google-Colab Notebook : https://colab.research.google.com/drive/187OPlA7fCAGJOwZ6KSU-HMVejdz-b37Q?usp=sharing
